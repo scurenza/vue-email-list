@@ -1,0 +1,20 @@
+body{
+    background-color: olivedrab;
+}
+
+h1{
+    color: orange;
+    border-bottom: 2px solid black;
+}
+
+ul {
+    list-style:circle;
+}
+li{
+    color: whitesmoke;
+    font-size: 2rem;
+}
+
+.hidden{
+    display: none;
+}
